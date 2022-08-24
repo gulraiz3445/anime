@@ -1,0 +1,5 @@
+@media screen and (max-width: 430px) {
+    .button{
+        margin-left: 40px!important;
+    }
+}

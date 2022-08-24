@@ -1,0 +1,14 @@
+@media only screen and (max-width:900px){
+.sideBar{
+    display: none;
+}
+.episode{
+    
+   padding: 0 !important;
+ }
+
+}
+.episode{
+    
+   padding-left: 3vmax;
+}
